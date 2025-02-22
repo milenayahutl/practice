@@ -1,0 +1,3 @@
+/home/unggi/dirm/practice/build/CMakeFiles/ToDoList.dir
+/home/unggi/dirm/practice/build/CMakeFiles/edit_cache.dir
+/home/unggi/dirm/practice/build/CMakeFiles/rebuild_cache.dir
